@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Baseflow/flutter_cached_network_image/commit/5387cfac3eb70d70c0454e5d02bdc1002f39b5ec",
       "git:hexsha": "5387cfac3eb70d70c0454e5d02bdc1002f39b5ec",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v4.0.6"
     },
     {
