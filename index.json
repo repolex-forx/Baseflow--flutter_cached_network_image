@@ -1,0 +1,11 @@
+{
+  "org": "Baseflow",
+  "repo": "flutter_cached_network_image",
+  "versions": [
+    {
+      "commit": "5387cfac3eb70d70c0454e5d02bdc1002f39b5ec",
+      "tag": "v4.0.6",
+      "parsed_at": "2026-11-10T06:57:03.225621+00:00"
+    }
+  ]
+}
